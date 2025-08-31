@@ -1,6 +1,3 @@
-## 📜 **README.md (starter version)**
-
-```markdown
 # Ollama LLM Playground 
 
 This repo is my personal lab for learning and experimenting with **local LLMs using Ollama**.  
@@ -21,7 +18,7 @@ ollama-llm-playground/
 │── 03\_projects/        # Mini projects (PDF QA, Voice Assistant, etc.)
 └── notes/              # Learning notes
 
-````
+```
 
 ## 🚀 Getting Started
 
@@ -30,7 +27,7 @@ ollama-llm-playground/
 3. Run a model:  
    ```bash
    ollama run llama3.2
-````
+   ```
 
 4. Try custom models from `01_modelfiles/`
 
@@ -40,11 +37,11 @@ ollama-llm-playground/
 * Build practical AI assistants locally
 * Experiment with RAG, memory, and voice interfaces
 
----
+
 
 ⭐ Work in progress as I learn.
 Stay tuned for updates and new experiments!
 
-```
 
----
+
+
