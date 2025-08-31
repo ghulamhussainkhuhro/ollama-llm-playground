@@ -1,2 +1,50 @@
-# ollama-llm-playground
-A hands-on playground for learning Ollama &amp; local LLMs Includes custom Modelfiles, Python scripts, and mini projects like PDF QA, chatbots with memory, and voice assistants. Focused on practical, no-fluff learning with clear notes and experiments.
+## 📜 **README.md (starter version)**
+
+```markdown
+# Ollama LLM Playground 
+
+This repo is my personal lab for learning and experimenting with **local LLMs using Ollama**.  
+It includes:
+
+- 🔹 **Custom Modelfiles** for different model personalities (concise, creative, etc.)
+- 🔹 **Python scripts** for chatting, memory bots, and RAG
+- 🔹 **Mini projects** like PDF QA and voice assistants
+- 🔹 **Notes** to keep track of key learnings
+
+## 📂 Structure
+
+```
+
+ollama-llm-playground/
+│── 01\_modelfiles/      # Custom Ollama models
+│── 02\_scripts/         # Python scripts with Ollama API
+│── 03\_projects/        # Mini projects (PDF QA, Voice Assistant, etc.)
+└── notes/              # Learning notes
+
+````
+
+## 🚀 Getting Started
+
+1. Install [Ollama](https://ollama.ai)  
+2. Clone this repo  
+3. Run a model:  
+   ```bash
+   ollama run llama3.2
+````
+
+4. Try custom models from `01_modelfiles/`
+
+## 🎯 Learning Goals
+
+* Master Ollama Modelfiles
+* Build practical AI assistants locally
+* Experiment with RAG, memory, and voice interfaces
+
+---
+
+⭐ Work in progress as I learn.
+Stay tuned for updates and new experiments!
+
+```
+
+---
