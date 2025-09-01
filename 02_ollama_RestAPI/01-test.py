@@ -43,3 +43,4 @@ messages = [
 response = ollama_chat("llama3.2", messages)
 answer = response["choices"][0]["message"]["content"]
 print("Assistant:", answer)
+# Note: Ensure that the Ollama server is running and the specified model is available.
