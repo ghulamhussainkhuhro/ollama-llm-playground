@@ -30,6 +30,7 @@ ollama-llm-playground/
    ```
 
 4. Try custom models from `01_modelfiles/`
+5. Read more about Ollama here [Ollama Docs](https://github.com/ollama/ollama/blob/main/docs/api.md)
 
 ## 🎯 Learning Goals
 
